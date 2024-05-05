@@ -1,2 +1,3 @@
-var uName = "manjula";
-console.log(uName + " bandara");
+function clickme(params) {
+   document.getElementById("header").innerHTML = "Home";
+}
